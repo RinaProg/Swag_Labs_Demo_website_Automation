@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common import keys
 from selenium.webdriver.support.wait import WebDriverWait as wait
 from selenium.webdriver.support import expected_conditions as ec
-# from selenium.webdriver.common.action_chains import ActionChains as ac
+
 
 
 def Automate_Function():
