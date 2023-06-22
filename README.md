@@ -2,4 +2,5 @@
 Swag_Labs_Demo_website_Automation Using Python Selenium
 
 ## OUTPUT :
-[Swag_Labs_Automation_screen-capture.webm](https://github.com/RinaProg/Swag_Labs_Demo_website_Automation/assets/122221586/db75a6d5-8ced-4c61-968f-eadc3a8b7725)
+
+![Swag-Labs-Automation-screen-capt](https://github.com/RinaProg/Swag_Labs_Demo_website_Automation/assets/122221586/5fa67fc6-1d77-4942-af2d-070d19455810)
